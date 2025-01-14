@@ -39,7 +39,7 @@ const Banner = () => {
                         <Link className='px-[20px] py-[8px] bg-[#FFB200] rounded text-[18px] font-Poppins font-semibold text-black hover:text-gray-400' to={'https://bbike.com.bd/'}>Contact Us</Link>
                     </div>
                 </div>
-                <div className="bike-slider">
+                <div className="bike-slider hidden md:block">
                 <div className="slider-container">
       <Slider {...settings}>
         <div className='w-[320px] md:w-[500px]'>
