@@ -1,0 +1,12 @@
+.menu-nav ul li{
+    @apply hover:scale-[1.1]
+}
+.menu-nav ul li a{
+    @apply text-[20px] font-semibold font-Poppins hover:border-b-4 text-white hover:border-white  transition-all duration-[.4s]
+}
+.menu-res ul li a {
+    @apply text-[18px]
+}
+.menu-res ul li{
+    @apply hover:bg-[#FF2929] hover:text-white
+}

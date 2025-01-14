@@ -1,0 +1,9 @@
+.choose-main-card .choose-single-card{
+    background: linear-gradient(to top,rgb(255,45,45) 50% ,rgb(0, 0, 0) 50%);
+    background-size: 100% 200%;
+}
+.choose-main-card .choose-single-card:hover{
+    background-position: left bottom;
+    box-shadow: 0 0 20px rgb(255, 45, 45);
+
+}

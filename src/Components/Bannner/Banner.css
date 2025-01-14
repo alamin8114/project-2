@@ -1,0 +1,13 @@
+.slider-container{
+    @apply !flex 
+}
+.slick-list{
+    @apply !w-[500px] md:!h-[400px] h-[400px]
+}
+
+.slick-arrow{
+    @apply text-[0px]
+}
+.video video{
+    @apply w-full h-screen object-cover
+}
